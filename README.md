@@ -1,5 +1,9 @@
 # climo
 
+Shows current location weather data .
+
+we can get weather data of different locations by searching city names.
+
 ![4godr7](https://user-images.githubusercontent.com/68919917/94571327-7d412e00-028d-11eb-9bd1-4abd858e9654.gif)
 
 ![4goe0u](https://user-images.githubusercontent.com/68919917/94571365-88945980-028d-11eb-8a3f-cd919daaf89c.gif)
