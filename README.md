@@ -1,8 +1,8 @@
 # climo
 
-Shows current location weather data .
+1.Shows current location weather data .
 
-we can get weather data of different locations by searching city names.
+2.we can get weather data of different locations by searching city names.
 
 App demo
 
